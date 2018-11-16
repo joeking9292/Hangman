@@ -13,6 +13,4 @@ If a letter appears more than once in the word, it will replace more than one un
 
 Body pieces should appear in the following order: head, neck, one arm, other arm, torso, one leg, other leg. Hints: p1-hints.txtPreview the document Your files must be named "hangman.h", "hangman.cpp", and "p1.cpp".
 
-
-
-This assignment was written and assignment by Professor Kevin Lundeen at Seattle University.
+This assignment was assigned by Professor Kevin Lundeen at Seattle University.
